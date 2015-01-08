@@ -1,9 +1,9 @@
 <?php
 /*
 * Plugin Name: SiteStats
-* Plugin URI: http://paolomanganiello.com
+* Plugin URI: https://wordpress.org/plugins/sitestats/
 * Description: Provides useful and interesting statistics about your Wordpress website.
-* Version: 1.0.0
+* Version: 1.0.1
 * Author: Paolo Manganiello
 * Author URI: http://paolomanganiello.com
 * License: GPLv2 or later
