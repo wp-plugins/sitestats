@@ -3,7 +3,7 @@ Contributors: mrpaolo
 Tags: stats, statistics, stat, top, popular, counter, authors, comments, posts, words
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: trunk
+Stable tag: 1.0
 License: GPLv2 or later
 
 Provides useful and interesting statistics about your Wordpress website.
