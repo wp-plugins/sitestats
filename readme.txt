@@ -3,7 +3,7 @@ Contributors: mrpaolo
 Tags: stats, statistics, stat, top, popular, counter, authors, comments, posts, words
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Provides useful and interesting statistics about your Wordpress website.
@@ -28,7 +28,13 @@ Once you have installed and activated SiteStats, visit the admin page via the si
 
 == Frequently Asked Questions ==
 
+If you have questions or issues with SiteStats please use the [Support Forum](https://wordpress.org/support/plugin/sitestats).
+
 == Screenshots ==
+
+1. screenshot-1.jpg
+
+2. screenshot-2.jpg
 
 == Changelog ==
 

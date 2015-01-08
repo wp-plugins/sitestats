@@ -121,7 +121,7 @@ function sitestats_plugin_page(  ) {
 						<div class="postbox">
 							<h3 class="hndle">Suggest new features!</h3>
 							<div class="inside">
-								<p>Would you like to see more statistics? Send us your ideas! We will be happy to implement them in our future releases!</p> 														
+								<p>Would you like to see more statistics? Send me your ideas to <a href="mailto:me@paolomanganiello.com">me@paolomanganiello.com</a>, I will be happy to implement them in the future releases of SiteStats!</p> 														
 							</div>
 						</div>
 						<!-- Support -->
@@ -129,10 +129,9 @@ function sitestats_plugin_page(  ) {
 							<h3 class="hndle">Support</h3>
 							<div class="inside">
 								<ul>
-									<p><a href="#">Help / FAQ</a>
-									<p><a href="#">Support Forum</a></p>
-									<p><a href="#">Send a Bug</a></p>
-									<p><a href="#">Review SiteStats on Wordpress.org</a></p>
+									<p><a href="https://wordpress.org/plugins/sitestats/faq/">Help / FAQ</a>
+									<p><a href="https://wordpress.org/support/plugin/sitestats">Support Forum</a></p>
+									<p><a href="https://wordpress.org/support/view/plugin-reviews/sitestats">Review SiteStats on Wordpress.org</a></p>
 								</ul>
 							</div>
 						</div>
