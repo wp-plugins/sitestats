@@ -1,0 +1,176 @@
+#sitestats {
+
+}
+
+/* COMMON */
+#sitestats table td.center,
+#sitestats table th.center {
+	text-align: center;
+}
+
+#sitestats #poststuff {
+	padding-top: 20px;
+}
+
+#sitestats #poststuff h3 {
+	margin-bottom: 15px;
+}
+
+#sitestats .postbox .hndle {
+	cursor: auto !important;
+}
+
+/*
+ * sitestats_grid
+*/
+#sitestats .sitestats_grid ul {
+	display: table;
+	width: 100%;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	background: #fff;
+}
+
+#sitestats .sitestats_grid ul li {
+	display: table-cell;
+	padding: 20px 0px;
+	border-right: 1px solid #e5e5e5;
+	margin-bottom: 0;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#sitestats .sitestats_grid ul li:last-child {
+	border-right: 0;
+}
+
+#sitestats .sitestats_grid ul li span {
+	display: block;
+	font-size: 16px;
+	margin-bottom: 10px;
+	font-weight: 100;
+}
+
+#sitestats .sitestats_grid.sitestats_post ul { border-bottom: 3px solid #db5031; }
+#sitestats .sitestats_grid.sitestats_post ul li { width: 16.5%; }
+
+#sitestats .sitestats_grid.sitestats_comments ul { border-bottom: 3px solid #04a4cc; }
+#sitestats .sitestats_grid.sitestats_comments ul li { width: 20%; }
+
+#sitestats .sitestats_grid.sitestats_authors ul { border-bottom: 3px solid #a3b745; }
+#sitestats .sitestats_grid.sitestats_authors ul li { width: 20%; }
+
+#sitestats .sitestats_grid.sitestats_tags ul { border-bottom: 3px solid #523f6d; }
+#sitestats .sitestats_grid.sitestats_tags ul li { width: 50%; }
+
+#sitestats .sitestats_grid.sitestats_category ul { border-bottom: 3px solid #ccaf0b; }
+#sitestats .sitestats_grid.sitestats_category ul li { width: 50%; }
+
+/*
+ * sitestats_home_grid
+*/
+
+#sitestats .sitestats_home_grid {
+
+}
+
+#sitestats .sitestats_home_grid ul {
+	display: table;
+	width: 100%;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	background: #fff;
+}
+
+#sitestats .sitestats_home_grid ul li {
+	display: table-cell;
+	/*width: 16%;*/
+	padding: 20px 0px;
+	border-right: 1px solid #e5e5e5;
+	margin-bottom: 0;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#sitestats .sitestats_home_grid ul li:last-child {
+	border-right: 0;
+}
+
+#sitestats .sitestats_home_grid ul li span {
+	display: block;
+	font-size: 16px;
+	margin-bottom: 10px;
+	font-weight: 100;
+}
+
+#sitestats .sitestats_home_grid .title {
+	background: #db5031;
+	color: #fff;
+	vertical-align: middle;
+	width: 140px;
+}
+
+#sitestats .sitestats_home_grid .title.red 		{ 	background: #d64e07; }
+#sitestats .sitestats_home_grid .title.orange 	{ 	background: #d46f15; }
+#sitestats .sitestats_home_grid .title.green 	{ 	background: #a3b745; }
+#sitestats .sitestats_home_grid .title.blue 	{ 	background: #04a4cc; }
+#sitestats .sitestats_home_grid .title.violet 	{ 	background: #523f6d; }
+#sitestats .sitestats_home_grid .title.yellow 	{	background: #ccaf0b; }
+#sitestats .sitestats_home_grid .title.marine 	{	background: #9ebaa0; }
+
+/*
+ * yeartabs 
+*/
+#sitestats #yeartabs {
+	border: 1px solid #e1e1e1;
+	display: block;
+}
+#sitestats #yeartabs li {
+	display: table-cell;
+	border-right: 1px solid #e1e1e1;
+	margin-bottom: 20px;
+}
+
+#sitestats #yeartabs li a {
+	padding: 20px 30px 17px 30px;
+	text-decoration: none;
+	display: block;
+	border-bottom: 3px solid #fff;
+}
+
+#sitestats #yeartabs li a:hover {
+	background: #ebebeb;
+	border-bottom: 3px solid #ebebeb;
+}
+
+#sitestats #yeartabs li a.active {
+	background: #ebebeb;
+	border-bottom: 3px solid #0074a2;
+}
+
+
+/*
+ * commentbox 
+*/
+
+#sitestats .commentbox {
+	display: none;
+	clear: both;
+}
+
+#sitestats  div.commentbox:first-of-type {
+	/*display: block;*/
+}
+
+#sitestats .commentbox.show {
+	display: block;
+}
+
+/*
+ * paypal
+*/
+#paypal_form {
+	text-align: center;
+}
